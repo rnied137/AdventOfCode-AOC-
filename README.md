@@ -1,5 +1,8 @@
+#Take part in AOC here: https://adventofcode.com/
+Just checking my skills in this eyar AOC. Will upload solutions in random manner.
+
 # AdventOfCode-AOC-
-Stolen form:
+About event:
 // https://adventofcode.com/2020/about
 
 Hi! I'm Eric Wastl. I make Advent of Code. I hope you like it! I also made Vanilla JS, PHP Sadness, and lots of other things. You can find me on Twitter and GitHub.
