@@ -1,4 +1,4 @@
-#Take part in AOC here: https://adventofcode.com/ 
+# Take part in AOC here: https://adventofcode.com/
 
 Just checking my skills in this eyar AOC. Will upload solutions in random manner.
 
