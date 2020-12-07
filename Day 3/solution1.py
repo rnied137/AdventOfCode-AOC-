@@ -1,11 +1,7 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
 tab = []
 mina = 0
 maxa = 0
+lineSize = 0
 
 lookFor = ""
 numberOfPolicyPasswords = 0
@@ -15,9 +11,14 @@ def traverse_slope(tab):
     numb_of_trees = 0
     curr_x = 0
     curr_y = 0
-    for slope in tab:
-        check_tree = slope[curr_x+3:curr_x+4]
-        print(check_tree)
+    i=0
+    tabLenght = (len(tab))
+    while i<tabLenght:
+        lineSize = len(tab[i])
+        check_tree = tab[i][curr_x + 3:curr_x + 4]
+        i=i+1;
+
+    print(check_tree)
 
 
 
@@ -39,5 +40,3 @@ for f in tab:
     print(f)
 
 traverse_slope(tab)
-
-
